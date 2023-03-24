@@ -1,0 +1,42 @@
+commit d3b4dea65f94f4d6240979b14430c42a2d0c886e (HEAD -> master, origin/master, bug3)
+Author: Viktor Tanevski <tanevski.viktor@outlook.com>
+Date:   Fri Mar 24 19:08:56 2023 +0100
+
+    Fix method sumEvenNumbers.
+
+commit 017eaa7723d4cc9057fe48a6a3567aaffa6c3294
+Merge: 9fa56ff 4ffc471
+Author: Viktor Tanevski <tanevski.viktor@outlook.com>
+Date:   Fri Mar 24 20:30:12 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 4ffc471cd37c9ff82bfcf561eb22ca7411800f15 (origin/bug2, bug2)
+Author: Viktor Tanevski <tanevski.viktor@outlook.com>
+Date:   Fri Mar 24 19:05:42 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 9fa56ff194cafa5e1fddf245300fabd855c31726 (origin/bug1, bug1)
+Author: Viktor Tanevski <tanevski.viktor@outlook.com>
+Date:   Fri Mar 24 19:02:11 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 4ed895bdb30515b6f49bf91821603e0c03bfd38e
+Author: Viktor Tanevski <tanevski.viktor@outlook.com>
+Date:   Fri Mar 24 18:58:27 2023 +0100
+
+    Add java class
+
+commit 979b1648011432a64085c9bcdc0d8800c689516b
+Author: Viktor Tanevski <tanevski.viktor@outlook.com>
+Date:   Fri Mar 24 18:20:41 2023 +0100
+
+    initial commit
+
+commit 9cce8aaa11ac61887a727d934e7340c16b42c183
+Author: Viktor Tanevski <tanevski.viktor@outlook.com>
+Date:   Fri Mar 24 18:13:49 2023 +0100
+
+    first commit
